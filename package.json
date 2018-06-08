@@ -1,0 +1,22 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "a Example ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fr20899/anydoor.git"
+  },
+  "keywords": [
+    "fr838429fr."
+  ],
+  "author": "Glacier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fr20899/anydoor/issues"
+  },
+  "homepage": "https://github.com/fr20899/anydoor#readme"
+}
